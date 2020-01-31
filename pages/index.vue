@@ -1,7 +1,7 @@
 <template>
   <div class="container">
+    <Logo></Logo>
     <div>
-      <logo />
       <h1 class="title">
         front-end-starter-kit
       </h1>
